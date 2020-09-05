@@ -4,6 +4,8 @@ Follow the instructions below in the order and go to the next step only after co
 
 1) check the git log 
 
+(!!conflict!!)
+
 2) pull from branch called pull-branch in upstream (delta/Git-Tutorial)
 
 3) check the git log 
